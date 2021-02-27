@@ -1,0 +1,6 @@
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\bin\Debug\netstandard2.0\devFabricRepo.deps.json
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\bin\Debug\netstandard2.0\devFabricRepo.dll
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\obj\Debug\netstandard2.0\devFabricRepo.csprojAssemblyReference.cache
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\obj\Debug\netstandard2.0\devFabricRepo.csproj.CoreCompileInputs.cache
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\obj\Debug\netstandard2.0\devFabricRepo.AssemblyInfoInputs.cache
+C:\Users\damccorm\Downloads\testFeedConsumer\devFabricRepo\devFabricRepo\devFabricRepo\obj\Debug\netstandard2.0\devFabricRepo.AssemblyInfo.cs
