@@ -1,0 +1,23 @@
+trigger:
+  branches:
+    include:
+    - main
+resources:
+  repositories:
+  - repository: self
+    type: git
+    ref: main
+jobs:
+- job: Job_1
+  displayName: Agent job 1
+  pool:
+    name: Default
+  steps:
+  - checkout: self
+  - task: NuGetCommand@2
+    displayName: NuGet restore
+    inputs:
+      selectOrConfig: config
+      feedRestore: 8bc438c7-64de-4add-814b-0f93200ea804/753d03f2-ae16-42a3-8c1e-b7df7bd8afec
+      nugetConfigPath: devFabricRepo/devFabricRepo/nuget.config
+      noCache: true
