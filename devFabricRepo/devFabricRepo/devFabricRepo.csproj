@@ -1,3 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="AppLogger_danny_mccormick" Version="1.0.0" />
+  </ItemGroup>
+  
 </Project>
